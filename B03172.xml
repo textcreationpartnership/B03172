@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An excellent ballad, of a prince of England's courtship to the King of France's daughter, and how the prince was disasterously slain; and how the aforesaid princess was afterwards married to a forrester. To the tune of, Crimson velvet, &amp;c.</title>
+            <author>Deloney, Thomas, 1543?-1600.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03172</idno>
+            <idno type="STC">Wing E3788A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[102]</idno>
+            <idno type="EEBO-CITATION">99884210</idno>
+            <idno type="PROQUEST">ocm99884210</idno>
+            <idno type="VID">182975</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182975)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An excellent ballad, of a prince of England's courtship to the King of France's daughter, and how the prince was disasterously slain; and how the aforesaid princess was afterwards married to a forrester. To the tune of, Crimson velvet, &amp;c.</title>
+                  <author>Deloney, Thomas, 1543?-1600.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for Alex. Milbourn, and sold by the booksellers of Pye-corner and London-Bridge.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed and entered according to order."</note>
+                  <note>Attributed to Thomas Deloney.</note>
+                  <note>Verse: "In the days of old ..."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="102" facs="tcp:182975:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>An excellent Ballad of a Prince of <hi>England</hi>'s Courtſhip to the King of <hi>France</hi>'s Daughter, and how the Prince was diſaſterouſly ſlain; and how the afore<g ref="char:EOLhyphen"/>ſaid Princeſs was afterwards married to a Forreſter.</head>
+            <opener>To the Tune of, <hi>Crimſon velvet,</hi> &amp;c.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>IN the Days of Old</l>
+               <l>when fair <hi>France</hi> did flouriſh,</l>
+               <l>Stories plainly told,</l>
+               <l>Lovers it annoy;</l>
+               <l>The King a Daughter had,</l>
+               <l>beauteous, fair, and lovely,</l>
+               <l>Which made her father glad,</l>
+               <l>ſhe was his only Ioy:</l>
+               <l>A Prince of <hi>England</hi> came,</l>
+               <l>Whoſe Deeds did merit fame,</l>
+               <l>he woo'd her long, and loe at laſt,</l>
+               <l>And what he did require,</l>
+               <l>She granted his deſire,</l>
+               <l>their hearts in one were linked faſt.</l>
+               <l>Which when her father proved,</l>
+               <l>Lord how he was moved,</l>
+               <l>and tormented in his mind,</l>
+               <l>He ſought for to prevent them,</l>
+               <l>And to diſcontent them,</l>
+               <l>Fortune croſſed Lovers kind.</l>
+            </lg>
+            <lg>
+               <l>When theſe Princes twain,</l>
+               <l>were thus bar'd of pleaſure.</l>
+               <l>Through the Kings Diſdain,</l>
+               <l>which their joys withſtood,</l>
+               <l>The Lady lockt up cloſe,</l>
+               <l>her jewels and her treaſure,</l>
+               <l>Having no remorſe</l>
+               <l>of State and Royal blood:</l>
+               <l>In homely poor array,</l>
+               <l>She went from Court away,</l>
+               <l>to meet her love and hearts delight:</l>
+               <l>Who in a Forreſt great,</l>
+               <l>Had taken up his ſeat,</l>
+               <l>to wait her coming in the nig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t:</l>
+               <l>But loe what ſudden Danger,</l>
+               <l>To this Princely Stranger</l>
+               <l>chanced as he ſat alone;</l>
+               <l>By Out-laws he was robbed,</l>
+               <l>And with Poniard ſtabded,</l>
+               <l>uttering many a dying Groan.</l>
+            </lg>
+            <lg>
+               <l>The Princeſs armed by him,</l>
+               <l>and by true Deſire,</l>
+               <l>Wandring all that night,</l>
+               <l>without dread at all;</l>
+               <l>Still unknown ſhe paſt,</l>
+               <l>in her ſtrange attire,</l>
+               <l>Coming at the laſt,</l>
+               <l>within Eccho's call,</l>
+               <l>
+                  <hi>You fair wood,</hi> quoth ſhe,</l>
+               <l>
+                  <hi>Honoured may you be,</hi>
+               </l>
+               <l>
+                  <hi>harbouring my hearts delight,</hi>
+               </l>
+               <l>
+                  <hi>Which doth incompaſs here,</hi>
+               </l>
+               <l>
+                  <hi>My Joy and only Dear,</hi>
+               </l>
+               <l>
+                  <hi>my truſty friend &amp; comely Knight;</hi>
+               </l>
+               <l>
+                  <hi>Sweet I come unto thee,</hi>
+               </l>
+               <l>
+                  <hi>Sweet I come to woo thee,</hi>
+               </l>
+               <l>
+                  <hi>that thou maiſt not angry be,</hi>
+               </l>
+               <l>
+                  <hi>For my long delaying,</hi>
+               </l>
+               <l>
+                  <hi>And thy courteous ſtaying,</hi>
+               </l>
+               <l>
+                  <hi>amends for all I'll make to thee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Paſſing thus alone,</l>
+               <l>through the ſilent-Forreſt,</l>
+               <l>Many a grievous groan</l>
+               <l>ſounded in her ear,</l>
+               <l>Where ſhe heard a man</l>
+               <l>to lament the ſoreſt</l>
+               <l>Chance that ever came,</l>
+               <l>forc'd by Deadly ſtrife</l>
+               <l>Farewel (my Dear) quoth he,</l>
+               <l>Whom I ſhall never ſee,</l>
+               <l>for why my life is at an end;</l>
+               <l>For thy ſweet ſake I dye,</l>
+               <l>Thro' Villians cruelty,</l>
+               <l>to ſhow I am a faithful friend;</l>
+               <l>Here lie a bleeding,</l>
+               <l>While my thoughts are feeding</l>
+               <l>on the rareſt beauty found:</l>
+               <l>O hard hap that may be,</l>
+               <l>Little knows my Lady</l>
+               <l>my heart blood lies on the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>round.</l>
+            </lg>
+            <lg>
+               <l>With that he gave a Groan</l>
+               <l>that did break aſunder,</l>
+               <l>All the tender ſtrings</l>
+               <l>of his gentle heart:</l>
+               <l>She who knew his voice,</l>
+               <l>at his tale did wonder,</l>
+               <l>All her former joys</l>
+               <l>did to grief convert,</l>
+               <l>Straight ſhe ran to ſee</l>
+               <l>who this Man ſhould be,</l>
+               <l>That ſo like her love did ſpeak,</l>
+               <l>and found when as ſhe came,</l>
+               <l>Her lovely Lord lay ſlain,</l>
+               <l>ſwear'd in blood which life did break</l>
+               <l>Which when that ſhe eſpyed,</l>
+               <l>Lord how ſore ſhe cried,</l>
+               <l>her ſorrows could not counted be,</l>
+               <l>Her eyes like fountains running,</l>
+               <l>While ſhe cry'd out, My Darling,</l>
+               <l>would God that I had dy'd for thee.</l>
+            </lg>
+            <lg>
+               <l>His pale lips; alas,</l>
+               <l>twenty times ſhe kiſſed,</l>
+               <l>And his face did waſh</l>
+               <l>with her briniſh tears;</l>
+               <l>Evry bleeding wound</l>
+               <l>her fair face bedewed,</l>
+               <l>Wiping off the blood</l>
+               <l>with her golden hair:</l>
+               <l>Speak my Lord (quoth ſhe)</l>
+               <l>Speak fair Prince to me</l>
+               <l>one ſweet word of comfort give;</l>
+               <l>Lift up thy fair eyes,</l>
+               <l>Liſten to my cries,</l>
+               <l>think in what great grief I live;</l>
+               <l>All in vain ſhe ſued,</l>
+               <l>All in vain ſhe wooed,</l>
+               <l>the Prince's life was fled &amp; gone:</l>
+               <l>There ſtood ſhe ſtill mourning,</l>
+               <l>Till the Suns approaching,</l>
+               <l>&amp; bright day was coming on.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="103" facs="tcp:182975:1"/>
+            <!-- PDF PAGE 9 -->
+            <lg>
+               <l>In this great Diſtreſs,</l>
+               <l>quoth this Royal Lady,</l>
+               <l>Who can now expreſs</l>
+               <l>what will become of me?</l>
+               <l>To me Fathers Court</l>
+               <l>never will I wonder,</l>
+               <l>But ſome ſervice ſeek,</l>
+               <l>where I may placed be.</l>
+               <l>Whilſt ſhe thus made her moan,</l>
+               <l>VVeeping all alone,</l>
+               <l>in this deep &amp; deadly fear,</l>
+               <l>A Forreſter all in green,</l>
+               <l>Moſt comely to be ſeen,</l>
+               <l>ranging the wood did find her there,</l>
+               <l>Round beſet with ſorrow,</l>
+               <l>
+                  <hi>Maid</hi> (quoth he) <hi>good morrow,</hi>
+               </l>
+               <l>
+                  <hi>what hard hap hath brought ye here</hi>
+               </l>
+               <l>
+                  <hi>Harder hap did never</hi>
+               </l>
+               <l>
+                  <hi>Chance to a Maiden ever,</hi>
+               </l>
+               <l>
+                  <hi>here lies ſlain my Brother dear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Where might I be plac'd,</hi>
+               </l>
+               <l>
+                  <hi>gentle Forreſter tell me;</hi>
+               </l>
+               <l>
+                  <hi>Where might I procure</hi>
+               </l>
+               <l>
+                  <hi>a ſervice in my need?</hi>
+               </l>
+               <l>
+                  <hi>Pains will I not ſpare,</hi>
+               </l>
+               <l>
+                  <hi>but would do my duty,</hi>
+               </l>
+               <l>
+                  <hi>Eaſe me of my care,</hi>
+               </l>
+               <l>
+                  <hi>help my extream need.</hi>
+               </l>
+               <l>The Forreſter all amazed,</l>
+               <l>On her beauty gazed,</l>
+               <l>till his heart was ſet on fire:</l>
+               <l>
+                  <hi>If fair maid</hi> (quoth he)</l>
+               <l>
+                  <hi>You will go with me,</hi>
+               </l>
+               <l>
+                  <hi>you ſhall have your hearts deſire.</hi>
+               </l>
+               <l>He brought her to his mother,</l>
+               <l>And above all other</l>
+               <l>he ſet forth this maidens praiſe;</l>
+               <l>Long was his heart inflamed,</l>
+               <l>At length her love he gained,</l>
+               <l>ſo fortune did his glory raiſe.</l>
+            </lg>
+            <lg>
+               <l>Thus unknown he matcht</l>
+               <l>with the Kings fair Daughter,</l>
+               <l>Children ſeven he had,</l>
+               <l>e'er ſhe to him was known:</l>
+               <l>But when he underſtood</l>
+               <l>ſhe was a Royal Princeſs,</l>
+               <l>By this means at laſt</l>
+               <l>he ſhews forth her fame:</l>
+               <l>He cloathed his children then,</l>
+               <l>Not like to other men,</l>
+               <l>in partly colours ſtrange to ſee,</l>
+               <l>The right ſide cloth of gold,</l>
+               <l>The left ſide to behold</l>
+               <l>of woollen cloth ſtill framed he:</l>
+               <l>Men thereat did wonder;</l>
+               <l>Golden Fame did thunder</l>
+               <l>this ſtrange Deed in every place:</l>
+               <l>The King of <hi>France</hi> came thither,</l>
+               <l>Being pleaſant weather</l>
+               <l>in theſe woods the hart to chaſe.</l>
+            </lg>
+            <lg>
+               <l>The Children there did ſtand</l>
+               <l>as their mother willed,</l>
+               <l>Where the Royal King</l>
+               <l>muſt of force come by.</l>
+               <l>Their mother richly clad</l>
+               <l>in fair Crimſon Velvet,</l>
+               <l>Their faither all in gray,</l>
+               <l>moſt comely to the eye,</l>
+               <l>VVhen this famous king,</l>
+               <l>Foting every thing,</l>
+               <l>did ask how he durſt be ſo bold,</l>
+               <l>To let his wife to wear,</l>
+               <l>And deck his Children there,</l>
+               <l>in coſtly Robes of pearl &amp; gold.</l>
+               <l>The Forreſter bold replyed,</l>
+               <l>And the cauſe Deſcried;</l>
+               <l>&amp; to the king he thus did ſay:</l>
+               <l>
+                  <hi>Well may they by their mother,</hi>
+               </l>
+               <l>
+                  <hi>Wear rich cloaths with other,</hi>
+               </l>
+               <l>
+                  <hi>being by birth a Princeſs gay.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The king upon theſe words</l>
+               <l>more heedfully beheld them,</l>
+               <l>Till a crimſon bluſh</l>
+               <l>his conceit <hi>did</hi> croſs:</l>
+               <l>
+                  <hi>The more I look</hi> (quoth he)</l>
+               <l>
+                  <hi>upon thy wife and children,</hi>
+               </l>
+               <l>
+                  <hi>The more I call to mind</hi>
+               </l>
+               <l>
+                  <hi>my daughter whom I loſt.</hi>
+               </l>
+               <l>
+                  <hi>I am that child</hi> (quoth ſhe)</l>
+               <l>
+                  <hi>Falling on her knee,</hi>
+               </l>
+               <l>
+                  <hi>pardon me my Soveraign Liege,</hi>
+               </l>
+               <l>The king perceiving this,</l>
+               <l>His Daughter dear <hi>did</hi> kiſs,</l>
+               <l>till joyful tears <hi>did</hi> ſtop his ſpeech</l>
+               <l>VVith his train he turned,</l>
+               <l>And with her ſojourned,</l>
+               <l>ſtraight he dub'd her husband knight,</l>
+               <l>He made him Earl of <hi>Flanders,</hi>
+               </l>
+               <l>One of his chief Commanders;</l>
+               <l>thus was their ſorrow put to flight.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed and Entered according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed by and for <hi>Alex. Milbourn,</hi> and ſold by the Bookſellers of <hi>Pye-corner</hi> and <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
